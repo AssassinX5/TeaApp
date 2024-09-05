@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "517533343522",
+    "firebase_url": "https://teaapp-e3094-default-rtdb.firebaseio.com",
+    "project_id": "teaapp-e3094",
+    "storage_bucket": "teaapp-e3094.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517533343522:android:8cda2e479e7fb83cb9cf7b",
+        "android_client_info": {
+          "package_name": "com.example.teaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0XaIIrWGComZYGHLglQIyk-1-JuAQDb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
